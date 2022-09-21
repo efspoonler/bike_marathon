@@ -77,3 +77,6 @@ venv.bak/
 
 # Repo specific files
 *.pdf
+
+# MacOS
+.DS_Store
